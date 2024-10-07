@@ -1,1 +1,1 @@
-Εργαστηριακές ασκήσεις στο μάθημα Εξασφάλιση Ποιότητας και Πρότυπα
+Laboratory exercises in the course Quality Assurance and Standards
