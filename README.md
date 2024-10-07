@@ -1,1 +1,1 @@
-Laboratory exercises in the course Quality Assurance and Standards
+University reports on the exercises of the course Quality Assurance and Standards.
